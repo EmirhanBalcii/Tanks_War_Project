@@ -5,16 +5,22 @@ NASIL OYNANIR?
 
 Tanks War oyunu unity ile geliştirilmiş iki kişilik  savaş oyunudur.
 Oyunda bir ana menü ve iki sahneli (bölümlü) bir yapıdadır.
-Oyuna ilk girildiğinde ana menude 
--"contiune"
--"new game"
--"quit"  seçenekleri vardır.
+Oyuna ilk girildiğinde ana menude :
+
+  -contiune <br/>
+  -new game <br/>
+  -quit  <br/>
+          seçenekleri vardır.
 Oyuna "new game" butonuna tıklayarak başlayabilirsiniz.
 Oyunun herhangi bir kısmında oyunu durdurmak istediğinizde "esc" tuşuna basarak durdurabilirsiniz.
-Durdurulduğunda menü seçenekleri geliyor.
--"resume"
--"restart"
--"main menu" seçeneklerinden birisini seçebilirisiniz.
+Durdurulduğunda menü seçenekleri geliyor:
+
+  -resume <br/>
+  -restart <br/>
+  -main menu  <br/>
+ 
+   seçeneklerinden birisini seçebilirisiniz.
+
 "Resume" butonuna tıklanıldığında oyuna kalındığı yerden devam edebilirisiniz.
 "Restart" butonuna tıklanıldığında oyunu yeniden tekrardan başlatabilirisiniz.
 "Main Menu" butonuna tıklanıldığında ana menüye direk geçebilirisiniz.
@@ -25,8 +31,8 @@ Her oyuncu için  5 saniyede  bir ateş etme hakkı mevcuttur.
 Tanklar oyuna başlarken 7 birim hızla başlıyor .
 Verilen bufferlar sayesinde can artırma ve hızlanma seçenekleri vardır.
 Oyunda 2 çeşit buffer mevcut:
-  - Tankı hızlandırma (her bufferda 5 birim hızlanma)
-  - Can artırma 
+  - Tankı hızlandırma (her bufferda 5 birim hızlanma) <br/>
+  - Can artırma <br/>
   
   
 TUŞLAR 
@@ -43,7 +49,7 @@ GELİŞTİRDİĞİM KISIMLAR
 -Ana menü oluşturuldu.
 -Sahne sayısı 2'ye çıkarıldı.(Sahneler arası asenkron geçiş)
 -Oyun kayıt altına alındı(Kalındığı yerden devam ediyor.)
--Oyunda iki çeşit animasyon mevcut.(Main menude iki tankın yukarı aşağı gelmesi ve oyunda bufferların dönüşü)
+-Oyunda  animasyonlR mevcut.(Main menude iki tankın yukarı aşağı gelmesi  oyunda bufferların dönüşü ve patlama )
 -Oyunda sahneler arası geçişte müzikte durdurma olmadan devam ediyor.
 -Oyuncular ateş etme tuşlarına bastığında ateş etme efektleri devreye giriyor.
 
@@ -69,10 +75,16 @@ tree asset: https://www.turbosquid.com/3d-models/3d-model-tree-collection-198072
 explosion animation : https://github.com/Tvtig/RocketLauncher/blob/main/Assets/Tvtig/Rocket%20Launcher/Art/Textures/Explosion/Explosion.tif
 
 OYUN İÇİ GÖRSELLER
-<img width="145" alt="Ekran görüntüsü 2023-01-15 145303" src="https://user-images.githubusercontent.com/75940377/212541110-1453f6d9-6425-4d0c-9ea7-a6ab8362ed53.png">
 
-<img width="145" alt="Ekran görüntüsü 2023-01-15 145439" src="https://user-images.githubusercontent.com/75940377/212541115-a5165be6-a724-47a8-b219-44b44d30a7fc.png">
+MAIN MENU
 
+<img width="400" alt="Ekran görüntüsü 2023-01-15 145303" src="https://user-images.githubusercontent.com/75940377/212541110-1453f6d9-6425-4d0c-9ea7-a6ab8362ed53.png">
 
-<img width="145" alt="Ekran görüntüsü 2023-01-15 145737" src="https://user-images.githubusercontent.com/75940377/212541119-7d6ee0ad-5e8b-4fe5-a24a-44bb060d79bf.png">
+1.SAHNE(BOLUM)
+
+<img width="400" alt="Ekran görüntüsü 2023-01-15 145439" src="https://user-images.githubusercontent.com/75940377/212541115-a5165be6-a724-47a8-b219-44b44d30a7fc.png">
+
+2.SAHNE(BOLUM)
+
+<img width="400" alt="Ekran görüntüsü 2023-01-15 145737" src="https://user-images.githubusercontent.com/75940377/212541119-7d6ee0ad-5e8b-4fe5-a24a-44bb060d79bf.png">
 
