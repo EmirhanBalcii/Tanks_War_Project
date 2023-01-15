@@ -37,42 +37,42 @@ Oyunda 2 çeşit buffer mevcut:
   
 TUŞLAR 
 
-W-A-S-D  --> 1.OYUNCU İÇİN HAREKET  TUŞLARI 
-Q-E    --> 1. OYUNCU İÇİN TARET DÖNDÜRME
-SPACE(BOŞLUK) -->1. OYUNCU İÇİN  ATEŞ ETME
-İLERİ -GERİ -SAĞ-SOL  YÖN TUŞLARI--> 2. OYUNCU İÇİN HAREKET TUŞLARI
-NUMPAD 1 - NUMPAD 3 TUŞLARI --> 2.. OYUNCU İÇİN TARET DÖNDÜRME
-NUMPAD 2 -->2. OYUNCU İÇİN ATEŞ ETME 
-!! 2. oyuncuda numpad olmayan cihazlar için "j" ve "l" tuşları ile taret döndürme "k" ile ateş etme 
+W-A-S-D  --> 1.OYUNCU İÇİN HAREKET  TUŞLARI <br/>
+Q-E    --> 1. OYUNCU İÇİN TARET DÖNDÜRME <br/>
+SPACE(BOŞLUK) -->1. OYUNCU İÇİN  ATEŞ ETME <br/>
+İLERİ -GERİ -SAĞ-SOL  YÖN TUŞLARI--> 2. OYUNCU İÇİN HAREKET TUŞLARI <br/>
+NUMPAD 1 - NUMPAD 3 TUŞLARI --> 2.. OYUNCU İÇİN TARET DÖNDÜRME <br/>
+NUMPAD 2 -->2. OYUNCU İÇİN ATEŞ ETME <br/>
+!! 2. oyuncuda numpad olmayan cihazlar için "j" ve "l" tuşları ile taret döndürme "k" ile ateş etme <br/>
 
 GELİŞTİRDİĞİM KISIMLAR
--Ana menü oluşturuldu.
--Sahne sayısı 2'ye çıkarıldı.(Sahneler arası asenkron geçiş)
--Oyun kayıt altına alındı(Kalındığı yerden devam ediyor.)
--Oyunda  animasyonlR mevcut.(Main menude iki tankın yukarı aşağı gelmesi  oyunda bufferların dönüşü ve patlama )
--Oyunda sahneler arası geçişte müzikte durdurma olmadan devam ediyor.
--Oyuncular ateş etme tuşlarına bastığında ateş etme efektleri devreye giriyor.
+-Ana menü oluşturuldu. <br/>
+-Sahne sayısı 2'ye çıkarıldı.(Sahneler arası asenkron geçiş) <br/>
+-Oyun kayıt altına alındı(Kalındığı yerden devam ediyor.) <br/>
+-Oyunda  animasyonlR mevcut.(Main menude iki tankın yukarı aşağı gelmesi  oyunda bufferların dönüşü ve patlama )<br/>
+-Oyunda sahneler arası geçişte müzikte durdurma olmadan devam ediyor. <br/>
+-Oyuncular ateş etme tuşlarına bastığında ateş etme efektleri devreye giriyor. <br/>
 
 
 
 
 OYUN LİNKİ
-https://emirhanbalci.itch.io/tanks-game
+https://emirhanbalci.itch.io/tanks-game <br/>
 
 OYUNDA KULLANILAN ASSETLERİN LİNKLERİ
-main menu asset:https://www.freepik.com/free-photo/cruel-war-scenes-digital-painting_15174538.htm#query=war%20background&position=2&from_view=search&track=sph
+main menu asset:https://www.freepik.com/free-photo/cruel-war-scenes-digital-painting_15174538.htm#query=war%20background&position=2&from_view=search&track=sph <br/>
 
-tank asset: https://www.turbosquid.com/3d-models/tank-model-1684359
+tank asset: https://www.turbosquid.com/3d-models/tank-model-1684359 <br/>
 
-rock asset: https://ambientcg.com/view?id=3DRock004
+rock asset: https://ambientcg.com/view?id=3DRock004 <br/>
 
-ground: https://ambientcg.com/view?id=Rock030 
+ground: https://ambientcg.com/view?id=Rock030  <br/>
 
-tank texture: https://ambientcg.com/view?id=Metal010
+tank texture: https://ambientcg.com/view?id=Metal010 <br/>
+ 
+tree asset: https://www.turbosquid.com/3d-models/3d-model-tree-collection-1980726 <br/>
 
-tree asset: https://www.turbosquid.com/3d-models/3d-model-tree-collection-1980726
-
-explosion animation : https://github.com/Tvtig/RocketLauncher/blob/main/Assets/Tvtig/Rocket%20Launcher/Art/Textures/Explosion/Explosion.tif
+explosion animation : https://github.com/Tvtig/RocketLauncher/blob/main/Assets/Tvtig/Rocket%20Launcher/Art/Textures/Explosion/Explosion.tif <br/> 
 
 OYUN İÇİ GÖRSELLER
 
